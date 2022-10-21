@@ -1,0 +1,201 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+para i de 0 ate 1 faca
+   se fones = cadastros[i].fone entao
+      escreval("")
+      escreval("")
+      escreval("dados do cliente")
+      escreval("nome: ", cadastro[i].nome " fone ", cadastro[i].fone)
+      escreval("endere�o:", cadastro[i].rua, " n�:" , CADASTRO[i].num)
+      status <- 1
+   fimse
+fimpara
+se(status = 0) entao
+   escreval("")
+   escreval("cdastro nao encontrado
+fimse
+escreval("")
+escreval("")
+escreval("escolha um op��o a seguir?")
+escreval(" (1) -> buacar outro cliente")
+escreval(" (2) -> cadastrar novo cliente")
+escreval(" (3) -> seguir para pedido")
+leia (resp)
+escolha(resp)
+caso 1
+   buscando_usuario()
+caso 2
+limpatela
+   cadstro()
